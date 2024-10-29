@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AsideShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-24 19:10+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: maijs\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: asideshop.php:413
+#, php-format
+msgid "%s Options Updated"
+msgstr "Opciones de  %s Actualizadas"
+
+#: asideshop.php:431
+msgid "Available tags:"
+msgstr "Etiquetas disponibles:"
+
+#: asideshop.php:434
+msgid "Post tags:"
+msgstr "Etiquetas de Entradas:"
+
+#: asideshop.php:450
+msgid "Comment tags:"
+msgstr "Etiquetas de Comentarios"
+
+#: asideshop.php:517
+#: asideshop.php:680
+#: asideshop.php:813
+msgid "Edit"
+msgstr "Editar"
+
+#: asideshop.php:518
+#: asideshop.php:698
+#: asideshop.php:833
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: asideshop.php:564
+msgid "Default"
+msgstr "Predeterminado"
+
+#: asideshop.php:586
+msgid "No categories were found."
+msgstr "No se encontraron categor&iacute;s-"
+
+#: asideshop.php:587
+#, php-format
+msgid "%s operates only with post entries which are placed in categories."
+msgstr "%s opera s&oacute;lo con entradas que tengan una categor&iacute;a."
+
+#: asideshop.php:613
+#: asideshop.php:735
+#, php-format
+msgid "Update %s Options &raquo;"
+msgstr "Actualizar Opciones de %s &raquo;"
+
+#: asideshop.php:616
+#: asideshop.php:741
+msgid "General"
+msgstr "General"
+
+#: asideshop.php:620
+#: asideshop.php:749
+#, php-format
+msgid "Disable %s."
+msgstr "Desactivar %s"
+
+#: asideshop.php:620
+#: asideshop.php:749
+msgid "(You can still manually use custom HTML code for aside posts in your themes with <code>is_aside()</code> function.)"
+msgstr "(Todav&iacute;a puedes customizar manualmene el c&oacute;digo HTML de los asides en tus plantillas con la funcio&oacute;n <code>is_aside()</code>.)"
+
+#: asideshop.php:624
+#: asideshop.php:753
+#, php-format
+msgid "Enable %s for testing."
+msgstr "Activar %s para pruebas."
+
+#: asideshop.php:624
+#: asideshop.php:753
+msgid "(Only logged-in administrators can see changes on the front page.)"
+msgstr "(S&oacute;lo administradores con sesi&oacute;n iniciada pueden ver los cambios en la p&aacute;gina principal)"
+
+#: asideshop.php:628
+#: asideshop.php:757
+#, php-format
+msgid "Enable %s."
+msgstr "Activar %s"
+
+#: asideshop.php:634
+#: asideshop.php:763
+msgid "Settings"
+msgstr "Opciones"
+
+#: asideshop.php:636
+#: asideshop.php:767
+msgid "Parse templates on"
+msgstr "Validar Plantillas Activado"
+
+#: asideshop.php:640
+#: asideshop.php:772
+msgid "Front page"
+msgstr "P&aacute;gina principal"
+
+#: asideshop.php:644
+#: asideshop.php:776
+msgid "Search view"
+msgstr "Vista de b&uacute;squeda"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "Archive view pages"
+msgstr "P&aacute;ginas de Archivo"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "(Includes Category, Tag, Author, Date views)"
+msgstr "(Incluye las p&aacute;ginas Categor&iacute;a, Etiqueta, Autor y Fecha)"
+
+#: asideshop.php:652
+#: asideshop.php:784
+msgid "Category view pages"
+msgstr "P&aacute;ginas de categor&iacute;s"
+
+#: asideshop.php:656
+#: asideshop.php:788
+msgid "Tag view pages"
+msgstr "P&aacute;ginas de etiquetas"
+
+#: asideshop.php:660
+#: asideshop.php:792
+msgid "Date view pages"
+msgstr "P&aacute;ginas de Fecha"
+
+#: asideshop.php:664
+#: asideshop.php:796
+msgid "Author view pages"
+msgstr "P&aacute;ginas de Autor"
+
+#: asideshop.php:670
+#: asideshop.php:802
+msgid "Templates"
+msgstr "Pantillas"
+
+#: asideshop.php:673
+#: asideshop.php:805
+msgid "Add Template"
+msgstr "Agregar Plantilla"
+
+#: asideshop.php:678
+#: asideshop.php:811
+msgid "Name"
+msgstr "Nombre"
+
+#: asideshop.php:679
+#: asideshop.php:812
+msgid "Template"
+msgstr "Plantilla"
+
+#: asideshop.php:681
+#: asideshop.php:814
+msgid "Delete"
+msgstr "Borrar"
+
+#: asideshop.php:707
+#: asideshop.php:843
+msgid "After selected templates are deleted, posts in categories which were assigned to selected templates will be displayed as regular posts."
+msgstr "Luego de que las plantillas seleccionadas sean borradas, las entradas cuyas categor&iacute;as fueron asignadas a la plantilla ser&aacute;n mostradas como entradas regulares."
+
+#: asideshop.php:713
+msgid "Invalid tags are marked in red (e.g. <span style=\"color: #f00000;\"><strong>%foo%</strong></span>), they will not be parsed."
+msgstr "Etiquetas inv&aacute;lidas son marcadas con rojo (Ej. <span style=\"color: #f00000;\"><strong>%foo%</strong></span>), no seran analizadas."
+
+#: asideshop.php:720
+#: asideshop.php:851
+msgid "Categories"
+msgstr "Categor&iacute;as"
+
+#: asideshop.php:721
+#: asideshop.php:853
+msgid "Select the categories which contain asides posts."
+msgstr "Selecciona las categor&iacute;s que contengan los posts Asides"
+
+#: asideshop.php:725
+#: asideshop.php:858
+msgid "Select Categories"
+msgstr "Seleccionar Categor&iacute;s"
+
+#: asideshop.php:726
+#: asideshop.php:859
+msgid "Category Name"
+msgstr "Nombre"
+
+#: asideshop.php:727
+#: asideshop.php:860
+msgid "Select Template"
+msgstr "Seleccionar Plantilla"
+
+#: asideshop.php:745
+msgid "Status"
+msgstr "Estado"
+
+#: asideshop.php:870
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: asideshop.php:955
+msgid ""
+"Are you sure you wish to cancel?\\n"
+"\\n"
+"All changes you have made will be discarded, original template will be used."
+msgstr ""
+"&iquote;Seguro que quieres cancelarl?\\n"
+"\\n"
+"Todos los cambios que hayas hecho ser&aacute;n descartados, la plantilla original ser&aacute; usada."
+

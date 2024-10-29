@@ -1,0 +1,241 @@
+# AsideShop translation.
+# Copyright (C) 2008 Raimonds Kalnins
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AsideShop in Italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-24 19:10+0200\n"
+"PO-Revision-Date: 2008-10-24 20:09+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: gidibao.net <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: asideshop.php:413
+#, php-format
+msgid "%s Options Updated"
+msgstr "%s Le opzioni sono state aggiornate"
+
+#: asideshop.php:431
+msgid "Available tags:"
+msgstr "Tag disponibili:"
+
+#: asideshop.php:434
+msgid "Post tags:"
+msgstr "Tag degli articoli:"
+
+#: asideshop.php:450
+msgid "Comment tags:"
+msgstr "Tag dei commenti:"
+
+#: asideshop.php:517
+#: asideshop.php:680
+#: asideshop.php:813
+msgid "Edit"
+msgstr "Modifica"
+
+#: asideshop.php:518
+#: asideshop.php:698
+#: asideshop.php:833
+msgid "Cancel"
+msgstr "Cancella"
+
+#: asideshop.php:564
+msgid "Default"
+msgstr "Predefinito"
+
+#: asideshop.php:586
+msgid "No categories were found."
+msgstr "Non sono state trovate le categorie."
+
+#: asideshop.php:587
+#, php-format
+msgid "%s operates only with post entries which are placed in categories."
+msgstr "%s funziona esclusivamente con il contenuto degli articoli appartenenti a delle categorie."
+
+#: asideshop.php:613
+#: asideshop.php:735
+#, php-format
+msgid "Update %s Options &raquo;"
+msgstr "Aggiorna %s le opzioni &raquo;"
+
+#: asideshop.php:616
+#: asideshop.php:741
+msgid "General"
+msgstr "Generale"
+
+#: asideshop.php:620
+#: asideshop.php:749
+#, php-format
+msgid "Disable %s."
+msgstr "Disabilita %s."
+
+#: asideshop.php:620
+#: asideshop.php:749
+msgid "(You can still manually use custom HTML code for aside posts in your themes with <code>is_aside()</code> function.)"
+msgstr "(Puoi ancora utilizzare manualmente il codice HTML per gli articoli aside nel tuo tema grazie alla funzione <code>is_aside()</code>.)"
+
+#: asideshop.php:624
+#: asideshop.php:753
+#, php-format
+msgid "Enable %s for testing."
+msgstr "Abilita %s per una prova."
+
+#: asideshop.php:624
+#: asideshop.php:753
+msgid "(Only logged-in administrators can see changes on the front page.)"
+msgstr "(Sarà possibile vedere le modifiche apportate alla pagina principale solamente se collegati come amministratori del sito.)"
+
+#: asideshop.php:628
+#: asideshop.php:757
+#, php-format
+msgid "Enable %s."
+msgstr "Abilita %s."
+
+#: asideshop.php:634
+#: asideshop.php:763
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: asideshop.php:636
+#: asideshop.php:767
+msgid "Parse templates on"
+msgstr "Analizza i template"
+
+#: asideshop.php:640
+#: asideshop.php:772
+msgid "Front page"
+msgstr "Pagina principale"
+
+#: asideshop.php:644
+#: asideshop.php:776
+msgid "Search view"
+msgstr "Visualizza la ricerca"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "Archive view pages"
+msgstr "Pagina dell'archivio"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "(Includes Category, Tag, Author, Date views)"
+msgstr "(Incluso Categoria, Tag, Autore e Data)"
+
+#: asideshop.php:652
+#: asideshop.php:784
+msgid "Category view pages"
+msgstr "Pagina della categoria"
+
+#: asideshop.php:656
+#: asideshop.php:788
+msgid "Tag view pages"
+msgstr "Pagina dei tag"
+
+#: asideshop.php:660
+#: asideshop.php:792
+msgid "Date view pages"
+msgstr "Pagina della data"
+
+#: asideshop.php:664
+#: asideshop.php:796
+msgid "Author view pages"
+msgstr "Pagina dell'autore"
+
+#: asideshop.php:670
+#: asideshop.php:802
+msgid "Templates"
+msgstr "Template"
+
+#: asideshop.php:673
+#: asideshop.php:805
+msgid "Add Template"
+msgstr "Aggiungi un template"
+
+#: asideshop.php:678
+#: asideshop.php:811
+msgid "Name"
+msgstr "Nome"
+
+#: asideshop.php:679
+#: asideshop.php:812
+msgid "Template"
+msgstr "Template"
+
+#: asideshop.php:681
+#: asideshop.php:814
+msgid "Delete"
+msgstr "Cancella"
+
+#: asideshop.php:707
+#: asideshop.php:843
+msgid "After selected templates are deleted, posts in categories which were assigned to selected templates will be displayed as regular posts."
+msgstr "Dopo la selezione i template saranno cancellati. Gli articoli appartenenti a quelle categorie assegnate ai template selezionati saranno mostrati come articoli regolari."
+
+#: asideshop.php:713
+msgid "Invalid tags are marked in red (e.g. <span style=\"color: #f00000;\"><strong>%foo%</strong></span>), they will not be parsed."
+msgstr "I tag non validi verranno segnalati in rosso (ad es. <span style=\"color: #f00000;\"><strong>%foo%</strong></span>) e non saranno analizzati."
+
+#: asideshop.php:720
+#: asideshop.php:851
+msgid "Categories"
+msgstr "Categorie"
+
+#: asideshop.php:721
+#: asideshop.php:853
+msgid "Select the categories which contain asides posts."
+msgstr "Seleziona le categorie che contengono degli articoli aside."
+
+#: asideshop.php:725
+#: asideshop.php:858
+msgid "Select Categories"
+msgstr "Seleziona le categorie"
+
+#: asideshop.php:726
+#: asideshop.php:859
+msgid "Category Name"
+msgstr "Nome della categoria"
+
+#: asideshop.php:727
+#: asideshop.php:860
+msgid "Select Template"
+msgstr "Seleziona il template"
+
+#: asideshop.php:745
+msgid "Status"
+msgstr "Stato"
+
+#: asideshop.php:870
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: asideshop.php:955
+msgid ""
+"Are you sure you wish to cancel?\\n"
+"\\n"
+"All changes you have made will be discarded, original template will be used."
+msgstr ""
+"Sei certo di volere cancellare?\\n"
+"\\n"
+"Tutte le modifiche che hai apportato in precedenza sono state eliminate e  verrà quindi utilizzato il template originale."
+
+#~ msgid "AsideShop"
+#~ msgstr "AsideShop"
+#~ msgid "http://wordpress.org/extend/plugins/asideshop"
+#~ msgstr "http://wordpress.org/extend/plugins/asideshop"
+#~ msgid ""
+#~ "A WordPress plugin which allows you to create templates for your asides "
+#~ "posts. Instantly."
+#~ msgstr ""
+#~ "Un plugin per WordPress che ti permette di creare al volo dei template "
+#~ "per i tuoi articoli aside."
+#~ msgid "Raimonds Kalnins"
+#~ msgstr "Raimonds Kalnins"
+

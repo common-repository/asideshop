@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AsideShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-24 19:07+0200\n"
+"PO-Revision-Date: 2008-10-24 19:08+0200\n"
+"Last-Translator: maijs\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Latvian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: asideshop.php:413
+#, php-format
+msgid "%s Options Updated"
+msgstr "%s iestatījumi saglabāti."
+
+#: asideshop.php:431
+msgid "Available tags:"
+msgstr "Pieejamās birkas:"
+
+#: asideshop.php:434
+msgid "Post tags:"
+msgstr "Rakstu birkas:"
+
+#: asideshop.php:450
+msgid "Comment tags:"
+msgstr "Komentāru birkas:"
+
+#: asideshop.php:517
+#: asideshop.php:680
+#: asideshop.php:813
+msgid "Edit"
+msgstr "Labot"
+
+#: asideshop.php:518
+#: asideshop.php:698
+#: asideshop.php:833
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: asideshop.php:564
+msgid "Default"
+msgstr "Noklusētais"
+
+#: asideshop.php:586
+msgid "No categories were found."
+msgstr "Tēmas netika atrastas."
+
+#: asideshop.php:587
+#, php-format
+msgid "%s operates only with post entries which are placed in categories."
+msgstr "%s spraudis darbojas tikai ar rakstiem, kuri ir piesaistīti tēmām."
+
+#: asideshop.php:613
+#: asideshop.php:735
+#, fuzzy, php-format
+msgid "Update %s Options &raquo;"
+msgstr "Saglabāt izmaiņas &raquo;"
+
+#: asideshop.php:616
+#: asideshop.php:741
+msgid "General"
+msgstr "Vispārīgi"
+
+#: asideshop.php:620
+#: asideshop.php:749
+#, php-format
+msgid "Disable %s."
+msgstr "Izslēgt %s."
+
+#: asideshop.php:620
+#: asideshop.php:749
+msgid "(You can still manually use custom HTML code for aside posts in your themes with <code>is_aside()</code> function.)"
+msgstr "(Kažociņos var tikt izmantots īsrakstiem pielāgots HTML kods, izmantojot <code>is_aside()</code> funkciju.)"
+
+#: asideshop.php:624
+#: asideshop.php:753
+#, php-format
+msgid "Enable %s for testing."
+msgstr "Ieslēgt %s testēšanai."
+
+#: asideshop.php:624
+#: asideshop.php:753
+msgid "(Only logged-in administrators can see changes on the front page.)"
+msgstr "(Tikai sistēmā pieteikušies administratori redzēs izmaiņas sākumlapā.)"
+
+#: asideshop.php:628
+#: asideshop.php:757
+#, php-format
+msgid "Enable %s."
+msgstr "Ieslēgt %s."
+
+#: asideshop.php:634
+#: asideshop.php:763
+msgid "Settings"
+msgstr "Uzstādījumi"
+
+#: asideshop.php:636
+#: asideshop.php:767
+msgid "Parse templates on"
+msgstr "Attēlot šablonus"
+
+#: asideshop.php:640
+#: asideshop.php:772
+msgid "Front page"
+msgstr "Sākumlapā"
+
+#: asideshop.php:644
+#: asideshop.php:776
+msgid "Search view"
+msgstr "Meklēšanas skata lapās"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "Archive view pages"
+msgstr "Arhīva skata lapās"
+
+#: asideshop.php:648
+#: asideshop.php:780
+msgid "(Includes Category, Tag, Author, Date views)"
+msgstr "(Ietver tēmas, birkas, autora un datuma skatus)"
+
+#: asideshop.php:652
+#: asideshop.php:784
+msgid "Category view pages"
+msgstr "Tēmas skata lapās"
+
+#: asideshop.php:656
+#: asideshop.php:788
+msgid "Tag view pages"
+msgstr "Birkas skata lapās"
+
+#: asideshop.php:660
+#: asideshop.php:792
+msgid "Date view pages"
+msgstr "Datuma skata lapās"
+
+#: asideshop.php:664
+#: asideshop.php:796
+msgid "Author view pages"
+msgstr "Autora skapa lapās"
+
+#: asideshop.php:670
+#: asideshop.php:802
+msgid "Templates"
+msgstr "Šabloni"
+
+#: asideshop.php:673
+#: asideshop.php:805
+msgid "Add Template"
+msgstr "Pievienot šablonu"
+
+#: asideshop.php:678
+#: asideshop.php:811
+msgid "Name"
+msgstr "Nosaukums"
+
+#: asideshop.php:679
+#: asideshop.php:812
+msgid "Template"
+msgstr "Šablons"
+
+#: asideshop.php:681
+#: asideshop.php:814
+msgid "Delete"
+msgstr "Dzēst"
+
+#: asideshop.php:707
+#: asideshop.php:843
+msgid "After selected templates are deleted, posts in categories which were assigned to selected templates will be displayed as regular posts."
+msgstr "Pēc tam, kad šabloni tiks dzēsti, raksti tēmās, kurām tika piesaistīti izvēlētie šabloni, tiks attēloti kā parasti raksti."
+
+#: asideshop.php:713
+msgid "Invalid tags are marked in red (e.g. <span style=\"color: #f00000;\"><strong>%foo%</strong></span>), they will not be parsed."
+msgstr "Neeksistējošas birkas tiks iezīmētas sarkanā krāsā (piem., <span style=\"color: #f00000;\"><strong>%foo%</strong></span>). Tās netiks pārveidotas."
+
+#: asideshop.php:720
+#: asideshop.php:851
+msgid "Categories"
+msgstr "Tēmas"
+
+#: asideshop.php:721
+#: asideshop.php:853
+msgid "Select the categories which contain asides posts."
+msgstr "Izvēlies tēmas, kas saturēs īsrakstus."
+
+#: asideshop.php:725
+#: asideshop.php:858
+msgid "Select Categories"
+msgstr "Izvēlies tēmu"
+
+#: asideshop.php:726
+#: asideshop.php:859
+msgid "Category Name"
+msgstr "Tēmas nosaukums"
+
+#: asideshop.php:727
+#: asideshop.php:860
+msgid "Select Template"
+msgstr "Izvēlies šablonu"
+
+#: asideshop.php:745
+msgid "Status"
+msgstr "Statuss"
+
+#: asideshop.php:870
+msgid "Save Changes"
+msgstr "Saglabāt izmaiņas"
+
+#: asideshop.php:955
+msgid ""
+"Are you sure you wish to cancel?\\n"
+"\\n"
+"All changes you have made will be discarded, original template will be used."
+msgstr ""
+"Vai esi drošs, ka vēlies atcelt darbību?\\n"
+"\\n"
+"Visas veiktās izmaiņas tiks atceltas, tiks izmantots sākotnējais šablons. "
+
+#~ msgid "AsideShop"
+#~ msgstr "AsideShop"
+#~ msgid "http://wordpress.org/extend/plugins/asideshop"
+#~ msgstr "http://wordpress.org/extend/plugins/asideshop"
+#~ msgid ""
+#~ "A WordPress plugin which allows you to create templates for your asides "
+#~ "posts. Instantly."
+#~ msgstr ""
+#~ "WordPress spraudnis, kas ļauj veidot šablonus īsziņām (asides). Zibenīgi."
+#~ msgid "Raimonds Kalnins"
+#~ msgstr "Raimonds Kalniņš"
+
